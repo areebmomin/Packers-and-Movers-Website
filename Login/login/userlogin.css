@@ -1,0 +1,43 @@
+table{
+	margin-top:90px;
+	height:350px;
+	width:450px;
+}
+th{
+	font-size:32;
+	font-family:Canbria;
+	background-color:#5fb962;
+	letter-spacing:1px;
+	border-radius:2px;
+}
+table{
+	border:ridge;
+	border-width:2px;
+	border-radius:6px;
+	box-shadow: 0 4px 8px 0 rgb(237, 247, 238), 0 6px 20px 0 rgb(220, 239, 220);
+}
+input[type=text],input[type=password]{
+	width:80%;
+	padding:8px 16px;
+	margin:8px 0;
+	box-sizing:border-box;
+	border-style:solid;
+	border-width:1px;
+	border-radius:6px;
+}
+td{
+	font-size:18;
+	letter-spacing:1px;
+}
+input[type=submit],input[type=reset]
+{
+	background-color:#5fb962;
+	color:white;
+	padding: 12px 25px;
+	text-align: center;
+	border:none;
+	display: inline-block;
+	font-size:14px;
+	letter-spacing:1px;
+	border-radius:2px;
+}

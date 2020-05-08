@@ -1,0 +1,51 @@
+form,td,th{
+	margin-top:45px;
+}
+input[type=text],input[type=number],input[type=email],input[type=password]{
+	width:80%;
+	padding:7px 22px;
+	margin:8px 0;	
+	box-sizing:border-box;
+	border-style:solid;
+	border-width:1px;
+	border-radius:6px;
+}
+select{
+	width:80%;
+	padding:7px 22px;
+	margin: 8px 0;
+	box-sizing:border-box;
+	border-color:black;
+	border-radius:6px;
+	display: inline-block;
+}
+td{
+	font-size:18;
+	letter-spacing:1px;
+}
+th{
+	font-size:36;
+	font-family:Canbria;
+	background-color:#83c985;
+	letter-spacing:1px;
+	border-radius:4px;
+}
+table{
+	border:ridge;
+	border-width:2px;
+	border-radius:6px;
+	background-color:#ffffff;
+	box-shadow: 0 4px 8px 0 rgb(237, 247, 238), 0 6px 20px 0 rgb(220, 239, 220);
+}
+input[type=submit],input[type=reset]
+{
+	background-color:#4CAF50;
+	color:white;
+	padding: 12px 25px;
+	text-align: center;
+	border:none;
+	display: inline-block;
+	font-size:14px;
+	letter-spacing:1px;
+	border-radius:2px;
+}

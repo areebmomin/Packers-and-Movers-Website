@@ -1,0 +1,91 @@
+body{
+	background-color:#EDF5E1;
+}
+h3{
+	text-align:center;
+	font-size:35px;
+	letter-spacing:1px;
+	font-family: cambria;
+	background-image:url('contact.jpg');
+	margin-bottom:20px;
+	padding-bottom:20px;
+	margin-top:0px;
+	padding-top:20px;
+	margin-left:0px;
+	margin-right:0px;
+}
+h4{
+	text-align:center;
+	font-size:28px;
+	padding-bottom:0px;
+	margin-bottom:8px;
+	margin-top:10px;
+	padding-top:5px;
+}
+p{
+	padding-left:200px;
+	font-size:30px;
+	letter-spacing:1px;
+	font-family:calibri;
+}
+.address{
+	margin-left:4px;
+	padding-left:4px;
+	font-size:20px;
+	padding-top:5px;
+	margin-top:1px;
+}
+div.polaroid{
+	width:260px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	text-align: center;
+	background-color:#e8f2d9;
+	float:center;
+	height:250px;
+}
+div.container{
+	padding:10px;
+}
+.enquiry{
+	margin-left:200px;
+}
+.image{
+	height:200px;
+	width:200px;
+	float:left;
+}
+form,td,th{
+	margin-top:45px;
+}
+input[type=text],input[type=number],input[type=email]{
+	width:80%;
+	padding:7px 22px;
+	margin:8px 0;	
+	box-sizing:border-box;
+	border-style:solid;
+	border-width:1px;
+}
+td{
+	font-size:18;
+	letter-spacing:1px;
+}
+th{
+	font-size:36;
+	font-family:Canbria;
+	letter-spacing:1px;
+}
+input[type=submit]
+{
+	background-color:#80dfff;
+	color:white;
+	padding: 12px 25px;
+	text-align: center;
+	border:none;
+	display: inline-block;
+	font-size:14px;
+	letter-spacing:1px;
+	border-radius:2px;
+}
+textarea{
+	border:1px solid black;
+}

@@ -1,0 +1,26 @@
+body{
+	background-color:#EDF5E1;
+}
+.outside{
+	margin-top:140px;
+	border:1px solid black;
+	margin-left:500px;
+	margin-right:500px;
+	background-color:white;
+}
+h3{
+	font-size:32px;
+	letter-spacing:1px;
+	font-family:cambria;
+	padding-top:0px;
+	margin-top:20px;
+	text-decoration:bold;
+}
+table{
+	padding-bottom:0px;
+	margin-bottom:20px;
+}
+a{
+	text-decoration:none;
+	color:black;
+}

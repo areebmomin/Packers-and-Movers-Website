@@ -1,0 +1,32 @@
+table{
+	margin-top:90px;
+	height:400px;
+	width:500px;
+	border:1px solid black;
+}
+img{
+	height:150px;
+	width:150px;
+}
+div.polaroid{
+	width:220px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	text-align: center;
+}
+div.container{
+	padding:10px;
+}
+th{
+	font-size:36;
+	font-family:Canbria;
+	background-color:#83c985;
+	letter-spacing:1px;
+	border-radius:2px;
+}
+table{
+	border:ridge;
+	border-width:2px;
+	border-radius:6px;
+	background-color:#ffffff;
+	box-shadow: 0 4px 8px 0 rgb(237, 247, 238), 0 6px 20px 0 rgb(220, 239, 220);
+}
